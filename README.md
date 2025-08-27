@@ -1,3 +1,6 @@
+![Banner](https://raw.githubusercontent.com/shardakori/shardakori/main/banner.png)
+
+
 # Hi, I'm Sharda 👋  
 
 🎓 Pursuing **B.Tech in Computer Science & Engineering**  
